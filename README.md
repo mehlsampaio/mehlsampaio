@@ -4,7 +4,7 @@ Sou estudante de ADS, entusiasta de tecnologia e focada em expandir meus conheci
 
 **Áreas de interesse:** Desenvolvimento Web | Desenvolvimento de Software | Ciência de Dados 
 
-## Oque eu estou estudando no momento? ✍️
+## Estudando Agora ✍️
 🌵 **Participando do bootcamp: Heineken - Inteligência Artificial Aplicada a Dados com Copilot**
 * 🌱 Versionamento de código com Git e GitHub
 * 📊 Consultas SQL mais produtivas
