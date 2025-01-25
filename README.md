@@ -2,13 +2,7 @@
 # Olá, meu nome é Mehl Sampaio! 👩‍💻
 Sou estudante de ADS, entusiasta de tecnologia e focada em expandir meus conhecimentos em diversas áreas, explorando novas linguagens de programação, ferramentas e metodologias de maneira versátil. 
 
-**Áreas de interesse:** Desenvolvimento Web | Desenvolvimento de Software | Ciência de Dados 
-
-## Estudando Agora ✍️
-🌵 **Participando do bootcamp: Heineken - Inteligência Artificial Aplicada a Dados com Copilot**
-* 🌱 Versionamento de código com Git e GitHub
-* 📊 Consultas SQL mais produtivas
-* 🤖 Automatizando análise de dados com IA
+**Áreas de interesse:** Desenvolvimento Web | Desenvolvimento de Software
 
 ## Tecnologias & Ferramentas 🔨
 <div style="display: inline-block;"> 
