@@ -20,9 +20,6 @@ Sou estudante de ADS, entusiasta de tecnologia e focada em expandir meus conheci
         <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="mehl-mysql">
         <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="mehl-git">
         <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="mehl-node">
-        <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="mehl-intellij">
-        <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="mehl-vscode">
-        <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="mehl-figma">
     </div>
     
 ## Conecte-se comigo 💬
