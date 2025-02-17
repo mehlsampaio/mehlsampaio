@@ -6,7 +6,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando minha 
 <div style="display: inline-block;"> 
         <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="mehl-python">
         <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="mehl-mysql">
-        <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="mehl-git">
     </div>
     
 ## Conecte-se comigo 💬
