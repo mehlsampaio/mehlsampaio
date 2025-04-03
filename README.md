@@ -2,7 +2,7 @@
 # Olá, meu nome é Mehl Sampaio! 👩‍💻
 - 📕 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNINTER**
 - 👩🏽‍💻Interesse em **Desenvolvimento de Software** e **Análise de Dados**
-- 🌱Iniciando meus estudos em **Python**
+- 🌱Iniciando meus estudos em **PHP**
 
 
 ## 🔋 Linguagens & Ferramentas 
