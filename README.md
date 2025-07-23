@@ -8,6 +8,10 @@
 
 📚 Aprendendo um pouco de tudo: Java, Python e bancos de dados
 
+📺 Tenho um carinho especial por coisas retrô
+
+📖 Às vezes, leitora de suspense...
+
 ✨ Acompanhe meus estudos e projetos por aqui!
 
 ### 🌱 Atualmente Estudando
