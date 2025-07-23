@@ -27,6 +27,7 @@
 
 ### 🌐 Onde me Encontrar
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B5A9E0?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=B5A9E0)](https://www.linkedin.com/in/mehlsampaio/)
-[![Gmail](https://img.shields.io/badge/Gmail-B5A9E0?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=B5A9E0)](mailto:mehlsampaio@gmail.com)
+[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/mehlsampaio)
+[![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/mehlsampaio/)
+
 
