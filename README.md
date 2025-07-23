@@ -1,9 +1,8 @@
-# 👾 Bem-vindo(a) ao meu GitHub! 
-<p>📕 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>UNINTER</strong><br>🎯 Futura Desenvolvedora<br>
-🖥 Apaixonada por tecnologia e em constante aprendizado!</p>
+<h1 align="center">👾 Bem-vindo(a) ao meu GitHub!</h1> 
+<p>📕 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>UNINTER</strong><br>🎯 Futura Desenvolvedora<br>🖥 Apaixonada por tecnologia e em constante aprendizado!</p>
 
 ## 🌱 Atualmente estudando
-- 📌 Python
+- ☕ Java | Spring Framework
 - 🎲 Estrutura de Dados
 - 👩🏽‍💻 Boas práticas de programação
 
@@ -11,11 +10,10 @@
 
 **Linguagens:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Bancos de Dados:**  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 **IDEs:**            
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
