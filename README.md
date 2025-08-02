@@ -1,12 +1,13 @@
+![header](./github-header-image.png)
+
 <h1 align="center">👾 Bem-vindo(a) ao meu GitHub!</h1> 
 
-### 🎇Sobre Mim 
+### 🦋 Sobre Mim 
 
 <p>📕 Estou no 4º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong> Uninter</strong> <br> 
 👩🏽‍💻 Apaixonada por tecnologia e programação <br>
 📚 Aprendendo um pouco de tudo: Java, Python e bancos de dados <br>
 📺 Tenho um carinho especial por coisas retrô <br>
-📖 Às vezes, leitora de suspense... <br>
 ✨ Acompanhe meus estudos e projetos por aqui!
  </p>
 
