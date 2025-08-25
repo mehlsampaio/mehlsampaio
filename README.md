@@ -29,6 +29,6 @@
 ### 🌐 Onde me Encontrar
 
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/mehlsampaio)
-[![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/mehlsampaio/)
+
 
 
