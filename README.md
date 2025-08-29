@@ -30,7 +30,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehlsampaio&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehlsampaio&langs_count=10&theme=radical&layout=compact)
 
 ### 🌐 Onde me Encontrar
 
