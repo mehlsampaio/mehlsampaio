@@ -2,14 +2,15 @@
 
 <h1 align="center">👾 Bem-vindo(a) ao meu GitHub!</h1> 
 
+
 ### 🦋 Sobre Mim 
 
-<p>📕 Estou no 4º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong> Uninter</strong> <br> 
+📕 Estou no 4º semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter** <br> 
 👩🏽‍💻 Apaixonada por tecnologia e programação <br>
 📚 Aprendendo um pouco de tudo: Java, Python e bancos de dados <br>
 📺 Tenho um carinho especial por coisas retrô <br>
 ✨ Acompanhe meus estudos e projetos por aqui!
- </p>
+
 
 ### 🌱 Atualmente Estudando
 
@@ -25,6 +26,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### 📊 Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehlsampaio&layout=compact&theme=radical)
 
 ### 🌐 Onde me Encontrar
 
