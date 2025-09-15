@@ -1,4 +1,4 @@
-![header](./github-header-image.png)
+![header](./github-header-banner-2.png)
 
 <h1 align="center">👾 Bem-vindo(a) ao meu GitHub!</h1> 
 
