@@ -5,7 +5,7 @@
 
 ### 🦋 Sobre Mim 
 
-📕 Estou no 4º semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter** <br> 
+📕 Estou no último semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter** <br> 
 👩🏽‍💻 Apaixonada por tecnologia e programação <br>
 📚 Aprendendo um pouco de tudo: Java, Python e bancos de dados <br>
 📺 Tenho um carinho especial por coisas retrô <br>
