@@ -1,40 +1,36 @@
-![header](./github-header-image.png)
+<h1 align="center">👾 Bem-vindo(a) ao meu GitHub!</h1>
 
-<h1 align="center">👾 Bem-vindo(a) ao meu GitHub!</h1> 
-
-
-### 🦋 Sobre Mim 
-
-📕 Estou no último semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter** <br> 
-👩🏽‍💻 Apaixonada por tecnologia e programação <br>
-📚 Aprendendo um pouco de tudo: Java, Python e bancos de dados <br>
-📺 Tenho um carinho especial por coisas retrô <br>
-✨ Acompanhe meus estudos e projetos por aqui!
+### 🦋 Sobre Mim  
+🎓 Estudante do último semestre de **Análise e Desenvolvimento de Sistemas** (Uninter)  
+👩🏽‍💻 Apaixonada por tecnologia e programação  
+📚 Aprendendo **Java**, **Python**, **Banco de Dados** e **Linux**  
+✨ Curiosa por tudo que envolve o universo da TI  
 
 
-### 🌱 Atualmente Estudando
+### 🌱 Atualmente Estudando  
+- ☕ Java | Spring Framework  
+- 🐧 Linux | Zorin OS  
+- 🎲 Estrutura de Dados  
+- 👩🏽‍💻 Boas práticas de programação  
 
-- ☕ Java | Spring Framework
-- 🎲 Estrutura de Dados
-- 👩🏽‍💻 Boas práticas de programação
 
-### 🔮 Tecnologias e Ferramentas
-
+### 💫 Tecnologias, Ferramentas e Ambiente  
+![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehlsampaio&langs_count=10&theme=radical&layout=compact)
+### 📊 Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehlsampaio&langs_count=8&theme=radical&layout=compact)
 
-### 🌐 Onde me Encontrar
 
-[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/mehlsampaio)
+### 🌐 Onde Me Encontrar  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehlsampaio)
 
 
 
