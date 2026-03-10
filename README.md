@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Bem-Vindo(a)%20ao%20meu%20perfil%20do%20Github&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Bem-Vindo(a)%20ao%20meu%20perfil%20do%20Github!&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -16,9 +16,8 @@ Explorando tecnologias 🌍 • Desenvolvendo coisas legais ✨ • Aprendendo &
 
 ### 👤 Sobre Mim  
 
-🎓 Estudante do último semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter**<br>
-👩🏽‍💻 Apaixonada por tecnologia e programação<br>
-📚 Aprendendo **Java**, **Python**, **Banco de Dados** e **Linux** <br> ✨ Curiosa por tudo que envolve o universo da TI 
+Olá! Eu me chamo Mehl, tenho 22 e sou natural do Rio Grande do Sul. Atualmente estou no último semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter**. Amo tudo que envolve o universo da tecnologia e estou sempre buscando aprender coisas novas.<br>
+**Hobbies:** Crochê 🧶 • Leitura 📚 • Cinema 🎬
 
 </div>
 
@@ -64,7 +63,7 @@ Explorando tecnologias 🌍 • Desenvolvendo coisas legais ✨ • Aprendendo &
 
 <td align="center" width="50%">
 
-### 🌐 Contato
+### Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehlsampaio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehlsampaio@gmail.com)
@@ -73,7 +72,7 @@ Explorando tecnologias 🌍 • Desenvolvendo coisas legais ✨ • Aprendendo &
 
 <td align="center" width="50%">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQxazJvOXo4eHlwNng1b2c0Z3MxMzRybnhxcmF0emxsMzBncGplMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QjkkR8Nn0clgYcnOtC/giphy.gif" width="260"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQxazJvOXo4eHlwNng1b2c0Z3MxMzRybnhxcmF0emxsMzBncGplMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QjkkR8Nn0clgYcnOtC/giphy.gif" width="180"/>
 
 </td>
 
