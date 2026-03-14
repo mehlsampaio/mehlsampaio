@@ -72,7 +72,7 @@ Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualm
 
 <td align="center" width="50%">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQxazJvOXo4eHlwNng1b2c0Z3MxMzRybnhxcmF0emxsMzBncGplMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QjkkR8Nn0clgYcnOtC/giphy.gif" width="180"/>
+<img src="giphy.gif" width="180"/>
 
 </td>
 
