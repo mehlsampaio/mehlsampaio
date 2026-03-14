@@ -12,7 +12,7 @@ Explorando tecnologias 🌍 • Desenvolvendo coisas legais ✨ • Aprendendo &
 
 ### 👤 Sobre Mim  
 
-Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou no último semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter**. Amo tudo que envolve o universo da tecnologia e estou sempre buscando aprender coisas novas.<br>
+Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou no último semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com foco em desenvolvimento **Back-End**. Amo tudo que envolve o universo da tecnologia e estou sempre buscando aprender coisas novas.<br>
 **Hobbies:** Crochê 🧶 • Leitura 📚 • Cinema 🎬
 
 </div>
