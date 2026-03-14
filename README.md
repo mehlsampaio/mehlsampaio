@@ -8,10 +8,6 @@ Explorando tecnologias 🌍 • Desenvolvendo coisas legais ✨ • Aprendendo &
 
 ---
 
-<p align="center">🌊🌍💧☁️💻☁️💧🌍🌊</p>
-
----
-
 <div align="center">
 
 ### 👤 Sobre Mim  
