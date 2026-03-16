@@ -47,7 +47,7 @@ Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualm
   
 ### Contato:
 
-<a target="_blank" href="www.linkedin.com/in/mehlsampaio"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png" height="28" alt="LinkedIn"></a>
+<a target="_blank" href="https://www.linkedin.com/in/mehlsampaio/"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png" height="28" alt="LinkedIn"></a>
 <a href="mailto:mehlsampaio@gmail.com"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GMAIL-button.png" height="28" alt="Gmail"></a>
 
 </td>
