@@ -10,7 +10,7 @@ Explorando tecnologias 🌍 • Desenvolvendo coisas legais ✨ • Aprendendo &
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=800&color=1EFAD4&center=true&vCenter=true&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=800&color=32AFE6&center=true&vCenter=true&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
 
 Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou no último semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com foco em desenvolvimento **Back-End**. Amo tudo que envolve o universo da tecnologia e estou sempre buscando aprender coisas novas.<br>
 **Hobbies:** Crochê 🧶 • Leitura 📚 • Cinema 🎬
@@ -21,7 +21,7 @@ Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualm
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=800&color=1EFAD4&center=true&vCenter=true&width=435&lines=Tecnologias%2C+Ferramentas+e+Ambiente)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=800&color=32AFE6&center=true&vCenter=true&width=435&lines=Tecnologias%2C+Ferramentas+e+Ambiente)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python">
