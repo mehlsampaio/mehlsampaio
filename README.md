@@ -10,7 +10,7 @@ Explorando tecnologias 🌍 • Desenvolvendo coisas legais ✨ • Aprendendo &
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=32AFE6&center=true&vCenter=true&width=435&lines=Sobre+Mim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=800&color=1EFAD4&center=true&vCenter=true&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
 
 Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou no último semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com foco em desenvolvimento **Back-End**. Amo tudo que envolve o universo da tecnologia e estou sempre buscando aprender coisas novas.<br>
 **Hobbies:** Crochê 🧶 • Leitura 📚 • Cinema 🎬
@@ -21,33 +21,19 @@ Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualm
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=32AFE6&center=true&vCenter=true&width=435&lines=Estudando)](https://git.io/typing-svg)
-
-☕ Java | Spring Framework  
-🐧 Linux | Zorin OS  
-🎲 Estrutura de Dados  
-👩🏽‍💻 Boas práticas de programação  
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=32AFE6&center=true&vCenter=true&width=435&lines=Tecnologias%2C+Ferramentas+e+Ambiente)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=800&color=1EFAD4&center=true&vCenter=true&width=435&lines=Tecnologias%2C+Ferramentas+e+Ambiente)](https://git.io/typing-svg)
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JAVA-button.png" height="28" alt="Java">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C-button.png" height="28" alt="C">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-BOOT-button.png" height="28" alt="Spring Boot">
 <br>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GIT-button.png" height="28" alt="Git">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MYSQL-button.png" height="28" alt="MySQL">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINUX-button.png" height="28" alt="Linux">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INTELLIJIDEA-button.png" height="28" alt="IntelliJ IDEA">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">
 </p>
 
 </div>
@@ -61,8 +47,8 @@ Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualm
   
 ### Contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehlsampaio)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehlsampaio@gmail.com)
+<a target="_blank" href="www.linkedin.com/in/mehlsampaio"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png" height="28" alt="LinkedIn"></a>
+<a href="mailto:mehlsampaio@gmail.com"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GMAIL-button.png" height="28" alt="Gmail"></a>
 
 </td>
 
