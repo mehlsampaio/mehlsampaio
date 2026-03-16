@@ -10,7 +10,7 @@ Explorando tecnologias 🌍 • Desenvolvendo coisas legais ✨ • Aprendendo &
 
 <div align="center">
 
-### 👤 Sobre Mim  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=32AFE6&center=true&vCenter=true&width=435&lines=Sobre+Mim)](https://git.io/typing-svg)
 
 Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou no último semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com foco em desenvolvimento **Back-End**. Amo tudo que envolve o universo da tecnologia e estou sempre buscando aprender coisas novas.<br>
 **Hobbies:** Crochê 🧶 • Leitura 📚 • Cinema 🎬
@@ -21,7 +21,7 @@ Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualm
 
 <div align="center">
 
-### 🌱 Atualmente Estudando  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=32AFE6&center=true&vCenter=true&width=435&lines=Estudando)](https://git.io/typing-svg)
 
 ☕ Java | Spring Framework  
 🐧 Linux | Zorin OS  
@@ -34,7 +34,7 @@ Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualm
 
 <div align="center">
 
-### 💫 Tecnologias, Ferramentas e Ambiente  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=32AFE6&center=true&vCenter=true&width=435&lines=Tecnologias%2C+Ferramentas+e+Ambiente)](https://git.io/typing-svg) 
 
 <p align="center">
 
@@ -58,7 +58,7 @@ Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualm
 <tr>
 
 <td align="center" width="50%">
-
+  
 ### Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehlsampaio)
