@@ -1,66 +1,59 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Bem-Vindo(a)%20ao%20meu%20Github!&fontSize=28&fontColor=ffffff&font=Fredoka"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi,%20I'm%20Mehl%20Sampaio!&fontSize=28&fontColor=ffffff&font=Fredoka"/>
 </p>
 
 <p align="center">
-Explorando tecnologias 🌍 • Desenvolvendo coisas legais ✨ • Aprendendo & Criando código 💻
+  <i>Junior Developer ✨ • Learning Java ☕ • Creating Code 🖥️</i>
 </p>
 
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=800&color=32AFE6&center=true&vCenter=true&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
-
-Olá! Eu me chamo Mehl, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou no último semestre de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com foco em desenvolvimento **Back-End**. Amo tudo que envolve o universo da tecnologia e estou sempre buscando aprender coisas novas.<br>
-**Hobbies:** Crochê 🧶 • Leitura 📚 • Cinema 🎬
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=800&color=32AFE6&center=true&vCenter=true&width=435&lines=Tecnologias%2C+Ferramentas+e+Ambiente)](https://git.io/typing-svg)
+<h2 align="center">About Me</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JAVA-button.png" height="28" alt="Java">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C-button.png" height="28" alt="C">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-BOOT-button.png" height="28" alt="Spring Boot">
-<br>
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GIT-button.png" height="28" alt="Git">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MYSQL-button.png" height="28" alt="MySQL">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINUX-button.png" height="28" alt="Linux">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INTELLIJIDEA-button.png" height="28" alt="IntelliJ IDEA">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">
+Hello! My name is Mehl, I’m 22 years old and originally from Rio Grande do Sul, Brazil.<br>
+I’m currently in the last semester of my <b>Systems Analysis and Development</b> degree at <b>Uninter</b>, focusing on <b>Back-End Development</b>.<br>
+I love everything related to technology and I’m always looking to learn new things.
 </p>
 
-</div>
+<p align="center">
+<b>Hobbies:</b> Crochet 🧶 • Reading 📚 • Movies 🎬
+</p>
 
----
+<h2 align="center">Languages & Tools</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+<p align="center">
+  ✦ ✦ ✦
+</p>
 <table align="center">
-<tr>
+  <tr>
+    <td align="center">
 
-<td align="center" width="50%">
-  
-### Contato:
+<h3>Contact me ✉️</h3>
 
-<a target="_blank" href="https://www.linkedin.com/in/mehlsampaio/"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png" height="28" alt="LinkedIn"></a>
-<a href="mailto:mehlsampaio@gmail.com"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GMAIL-button.png" height="28" alt="Gmail"></a>
+<p>Email 📬: mehlsampaio@gmail.com</p>
 
-</td>
-
-<td align="center" width="50%">
-
-<img src="giphy.gif" width="180"/>
-
-</td>
-
-</tr>
+<p>
+  LinkedIn 🌐:
+  <a href="https://www.linkedin.com/in/mehlsampaio/">
+    mehlsampaio
+  </a>
+</p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjVycGlvbmMzc2E4MnRwdmFrZmtnZHZ5emgzMTRtbzIwdWNubWQ1ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/c2DVKP6c5rtvV192CI/giphy.gif" width="180">
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 </p>
