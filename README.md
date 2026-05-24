@@ -10,12 +10,10 @@
 
 <p align="center">
 Hello! My name is Mehl, I’m 22 years old and originally from Rio Grande do Sul, Brazil.<br>
-I’m currently in the last semester of my <b>Systems Analysis and Development</b> degree at <b>Uninter</b>, focusing on <b>Back-End Development</b>.<br>
-I love everything related to technology and I’m always looking to learn new things.
-</p>
-
-<p align="center">
-<b>Hobbies:</b> Crochet 🧶 • Reading 📚 • Movies 🎬
+I have a degree in <b>Systems Analysis and Development</b> from <b>Uninter</b>, focusing on <b>Back-End Development</b>.<br>
+I love everything related to technology and I’m always looking to learn new things. <br>
+Follow me and check out my projects! ✨
+                                                                                  
 </p>
 
 <h2 align="center">Languages & Tools</h2>
