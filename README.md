@@ -3,17 +3,16 @@
 </p>
 
 <p align="center">
-  <i>Junior Developer ✨ • Learning Java ☕ • Creating Code 🖥️</i>
+  <i>Software Developer ✨ • Learning Java ☕ • Creating Code 🖥️</i>
 </p>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me 𑣲⋆</h2>
 
 <p align="center">
-Hello! My name is Mehl, I’m 22 years old and originally from Rio Grande do Sul, Brazil.<br>
-I have a degree in <b>Systems Analysis and Development</b> from <b>Uninter</b>, focusing on <b>Back-End Development</b>.<br>
-I love everything related to technology and I’m always looking to learn new things. <br>
-Follow me and check out my projects! ✨
-                                                                                  
+Hello! My name is Mehl, I’m 22 years old, born and raised in Rio Grande do Sul, Brazil 🇧🇷<br>
+I have a degree in <b>Systems Analysis and Development</b> from <b>Uninter</b>, focusing on <b>Back-End Development</b> 🎓<br>
+I love everything related to technology and I’m always looking to learn new things.<br>
+Follow me and check out my projects! ✨                                                                                 
 </p>
 
 <h2 align="center">Languages & Tools</h2>
