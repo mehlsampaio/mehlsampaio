@@ -1,58 +1,31 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6eb4,100:ff1493&height=200&section=header&text=Hi,%20I'm%20Mehl%20Sampaio!&fontSize=28&fontColor=ffffff&font=Fredoka"/>
+<h2>Hi, I'm Mehl Sampaio! ꪆৎ</h2>
+<p><img src="https://img.shields.io/badge/Back--End%20Development-%23FBEAF0.svg?style=for-the-badge&logoColor=%2372243E&color=FBEAF0&labelColor=FBEAF0"></p>
+
+<p>
+  ────୨ৎ────
 </p>
 
-<p align="center">
-  <i>Software Developer ✨ • Learning Java ☕ • Creating Code 🖥️</i>
-</p>
-
-<h2 align="center">About Me 𑣲⋆</h2>
-
-<p align="center">
-Hello! My name is Mehl, I’m 22 years old, born and raised in Rio Grande do Sul, Brazil 🇧🇷<br>
+<h3>About Me 𑣲⋆</h3>
+<p>
+22 years old, born and raised in Rio Grande do Sul, Brazil 🇧🇷<br>
 I have a degree in <b>Systems Analysis and Development</b> from <b>Uninter</b>, focusing on <b>Back-End Development</b> 🎓<br>
 I love everything related to technology and I’m always looking to learn new things.<br>
 Follow me and check out my projects! ✨                                                                                 
 </p>
 
-<h2 align="center">Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
-
+<p>
+  ────୨ৎ────
 </p>
-<p align="center">
-  ✦ ✦ ✦
-</p>
-<table align="center">
-  <tr>
-    <td align="center">
 
-<h3>Contact me ✉️</h3>
+<h3>Languages & Tools</h3>
 
-<p>Email 📬: mehlsampaio@gmail.com</p>
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,mint)
+
 
 <p>
-  LinkedIn 🌐:
-  <a href="https://www.linkedin.com/in/mehlsampaio/">
-    mehlsampaio
-  </a>
+  ────୨ৎ────
 </p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjVycGlvbmMzc2E4MnRwdmFrZmtnZHZ5emgzMTRtbzIwdWNubWQ1ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/c2DVKP6c5rtvV192CI/giphy.gif" width="180">
-    </td>
-  </tr>
-</table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6eb4,100:ff1493&height=120&section=footer"/>
-</p>
+<h3>Contact me ✉️</h3>
+<p>📬 mehlsampaio@gmail.com | 🌐 <a href="https://www.linkedin.com/in/mehlsampaio/">linkedin.com/in/mehlsampaio</a></p>
+
