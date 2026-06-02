@@ -19,7 +19,7 @@ Follow me and check out my projects! ✨
 
 <h3>Languages & Tools</h3>
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,mint)
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,linux)
 
 
 <p>
