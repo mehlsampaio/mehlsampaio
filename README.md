@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi,%20I'm%20Mehl%20Sampaio!&fontSize=28&fontColor=ffffff&font=Fredoka"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6eb4,100:ff1493&height=200&section=header&text=Hi,%20I'm%20Mehl%20Sampaio!&fontSize=28&fontColor=ffffff&font=Fredoka"/>
 </p>
 
 <p align="center">
@@ -54,5 +54,5 @@ Follow me and check out my projects! ✨
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6eb4,100:ff1493&height=120&section=footer"/>
 </p>
