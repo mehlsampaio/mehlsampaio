@@ -26,6 +26,6 @@ Follow me and check out my projects! ✨
   ────୨ৎ────
 </p>
 
-<h3>Contact me ✉️</h3>
+<h3>Contact Me ✉️</h3>
 <p>📬 mehlsampaio@gmail.com | 🌐 <a href="https://www.linkedin.com/in/mehlsampaio/">linkedin.com/in/mehlsampaio</a></p>
 
