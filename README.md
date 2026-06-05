@@ -1,4 +1,3 @@
-<img alt="header" src="header.png">
 <h2>Hi, I'm Mehl Sampaio! ꪆৎ</h2>
 <p><img src="https://img.shields.io/badge/Back--End%20Development-%23FBEAF0.svg?style=for-the-badge&logoColor=%2372243E&color=FBEAF0&labelColor=FBEAF0"></p>
 
