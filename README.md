@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFieGptYWk0NGxjZnNqbTIyMHF3ajNmNWRkZ3hpeWV3dDlzMmRjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTcyjVJQMEi2Y/giphy.gif" width="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFieGptYWk0NGxjZnNqbTIyMHF3ajNmNWRkZ3hpeWV3dDlzMmRjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTcyjVJQMEi2Y/giphy.gif" width="400">
 </p>
 
 <h2 align="center">Hi, I'm Mehl Sampaio! ꪆৎ</h2>
