@@ -13,24 +13,18 @@
   ⋆｡‍𖦹˚ ────୨ৎ──── ⋆｡‍𖦹˚
 </p>
 
-<h3 align="center">About Me 𑣲⋆</h3>
+<h3>About Me 𑣲⋆</h3>
 
-<p align="center">
+<p>
   I'm a Back-end Developer, graduated in <code>Systems Analysis and Development</code> from <code>Uninter</code>. Currently, I'm studying Java and the Spring framework, and exploring the Linux world. I love everything related to technology and I'm always looking to learn new things.
 </p>
-
-<p align="center">
-  ────୨ৎ──── 
-</p>
-
-<h3 align="center">Languages & Tools</h3>
-
-<p align="center">
+<br>
+<p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,linux">
 </p>
 
 <p align="center">
-   ────୨ৎ──── 
+  ⋆｡‍𖦹˚ ────୨ৎ──── ⋆｡‍𖦹˚
 </p>
 
 <h3 align="center">Contact Me ✉️</h3>
