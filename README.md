@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Back--End%20Development-FF69B4.svg?style=for-the-badge&logoColor=white&color=FF69B4&labelColor=FF69B4">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Technical%20Support-FF69B4.svg?style=for-the-badge&logoColor=white&color=FF69B4&labelColor=FF69B4">
+  <img src="https://img.shields.io/badge/Technical%20Support-739032.svg?style=for-the-badge&logoColor=white&color=739032&labelColor=739032">
 </p>
 
 <p align="center">
