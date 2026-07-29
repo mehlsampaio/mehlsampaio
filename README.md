@@ -5,8 +5,9 @@
 <h2 align="center">Hi, I'm Mehl Sampaio!</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Back--End%20Development-%23FBEAF0.svg?style=for-the-badge&logoColor=%2372243E&color=FBEAF0&labelColor=FBEAF0">
-  <img src="https://img.shields.io/badge/Technical%20Support-%23FBEAF0.svg?style=for-the-badge&logoColor=%2372243E&color=FBEAF0&labelColor=FBEAF0">
+  <img src="https://img.shields.io/badge/Back--End%20Development-FF69B4.svg?style=for-the-badge&logoColor=white&color=FF69B4&labelColor=FF69B4">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Technical%20Support-FF69B4.svg?style=for-the-badge&logoColor=white&color=FF69B4&labelColor=FF69B4">
 </p>
 
 <p align="center">
@@ -18,7 +19,7 @@
 <p>
   I'm a Back-end Developer, graduated in <code>Systems Analysis and Development</code> from <code>Uninter</code>. Currently, I'm studying Java and the Spring framework, and exploring the Linux world. I love everything related to technology and I'm always looking to learn new things.
 </p>
-<br>
+&nbsp;&nbsp;
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,linux">
 </p>
