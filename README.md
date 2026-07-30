@@ -20,8 +20,14 @@
   I'm a Back-end Developer, graduated in <code>Systems Analysis and Development</code> from <code>Uninter</code>. Currently, I'm studying Java and the Spring framework, and exploring the Linux world. I love everything related to technology and I'm always looking to learn new things.
 </p>
 &nbsp;&nbsp;
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,linux">
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-B74576.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-B74576.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-B74576.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-B74576.svg?style=for-the-badge&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GitHub-B74576.svg?style=for-the-badge&logo=github&logoColor=white"> 
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-B74576.svg?style=for-the-badge&logo=intellijidea&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Linux-B74576.svg?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B74576&height=3&section=header" width="100%">
